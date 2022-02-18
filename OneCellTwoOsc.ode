@@ -37,11 +37,6 @@ h'= (hinf-h)/tauh
 C' = fi*( J_ER_in- J_ER_out)
 l' = A*( Kd - (C + Kd)*l )
 
-# Auxilary variables
-aux Ce=Ce
-aux ican=I_can
-aux inaps=I_nap
-
 #Initial conditions
 
 v(0)=-50
